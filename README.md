@@ -44,9 +44,9 @@ Our workshops are currently offered through Do Quantum chapters at:
 
 **Do Quantum** is a nonprofit organization dedicated to making quantum computing accessible to everyone.  
 We build pathways from foundational learning to real research, industry collaboration, and workforce development.  
-Our workshops, internships, and mentorships prepare students for the future of quantum technologies.
+Our workshops and research opportunities prepare students for the future of quantum technologies.
 
-👉 Learn more: [doquantum.org](https://doquantum.org) <!-- Update the link if needed -->
+👉 Learn more: [doquantum.org](https://doquantum.org)
 
 ---
 
@@ -57,4 +57,4 @@ Feel free to open an issue, fork a topic repository, or suggest improvements thr
 
 ---
 
-# ✨ Let's Build the Future of Quantum Together!
+# ✨ I hope this serves you well, no matter where you are in the world.
