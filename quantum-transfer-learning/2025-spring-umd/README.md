@@ -60,4 +60,4 @@ Here are the improvements we implemented and who implemented them:
 
 ## 📚 References
 
-- [PennyLane Demo]([https://docs.pennylane.ai/](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning))
+- [PennyLane Demo](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning)
