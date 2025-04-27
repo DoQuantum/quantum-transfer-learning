@@ -27,8 +27,6 @@ Each folder contains:
 | Topic | Description | Link |
 | :--- | :--- | :--- |
 | **Quantum Transfer Learning** | Learn how quantum circuits can boost classical machine learning models. | [View](./Quantum-Transfer-Learning) |
-| **Quantum Natural Language Processing (NLP)** | Explore how quantum computing can accelerate language understanding. | [View](./Quantum-NLP) |
-| **Quantum Circuit Design** | Build foundational quantum circuits and understand their mechanics. | [View](./Quantum-Circuit-Design) |
 
 _More topics coming soon!_
 
