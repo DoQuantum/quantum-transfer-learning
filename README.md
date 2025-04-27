@@ -26,7 +26,7 @@ Each folder contains:
 
 | Topic | Description | Link |
 | :--- | :--- | :--- |
-| **Quantum Transfer Learning** | Learn how quantum circuits can boost classical machine learning models. | [View](./Quantum-Transfer-Learning) |
+| **Quantum Transfer Learning** | Learn how quantum circuits can boost classical machine learning models. | [View](./Quantum-Transfer-Learning/2025-spring-umd) |
 
 _More topics coming soon!_
 
