@@ -1,63 +1,65 @@
-# Quantum Transfer Learning – Workshop
+# 📚 Do Quantum Workshops
 
-- Welcome to our the result of our first workshop series at UMD - **Quantum Transfer Learning**<br>
-- This workshop series is based on recreating and improving a quantum transfer learning demo from PennyLane.
-- What we accomplished together: **Worked together to propose, implement, and review improvements** to the original recreated code.
+Welcome to **Do Quantum’s Workshop Repository**!  
+We organize hands-on, experiential workshops that introduce students to quantum computing, quantum mechanics, and related technologies through real projects.
 
-> Contributors' experience levels ranged from never having used Python, to conducting quantum research with us, all contributors are given credit for their specific contributions below and references are listed.
-
----
-
-## 🚀 Workshop Overvew
-
-This is the result of two workshops we conducted, each 90 minutes long.
-- Workshop #1: We setup programming environments, grouped up into teams of 2 or 4, and recreated Pennylane's demo with support from members of Do Quantum @ UMD's leadership team ([Evren](https://github.com/EvrenKissane) and [Wilson](https://github.com/0mWh)).
-- Workshop #2: We worked together to propose, implement, and review improvements to the original recreated code.
+Our workshops are designed for students of all backgrounds — no prior quantum experience required — and are delivered through **Do Quantum chapters** at universities across the country.
 
 ---
 
-## 🛠️ Contribution Guidelines
+## 🚀 What You'll Find Here
 
-- ✅ **Clone** this repo
-- ✅ **Create a new branch** for your improvement
-- ✅ **Implement** your change(s)
-- ✅ **Commit and push** your changes
-- ✅ **Open a Pull Request (PR)** with a short description:
-  - What you changed
-  - Why the improvement matters
+This repository is organized to help you **explore our workshops by topic, semester, and chapter location**.
 
----
+`/Workshops /[Workshop Topic] /[Year-Semester-School]`
 
-## 💡 Improvement Ideas
 
-Here are some improvement ideas you can work on:
-- Address overfitting and underfitting (early stopping, regularization, etc.)
-- Balance the dataset (oversampling, augmentation)
-- Add or improve evaluation metrics (precision, recall, confusion matrix)
-- Enhance visualization (e.g., training and validation curves)
-- Refactor code for readability (comments, modularization)
-- Optimize hyperparameters (learning rate, batch size)
+Each folder contains:
+- **Workshop Code**: Hands-on coding projects
+- **Slides**: Presentation materials (if available)
+- **Recordings**: Workshop session videos (if available)
+- **Event-specific README**: Details about the offering
 
 ---
 
-## 🤝 Improvements Implemented & Contributors
+## 🧠 Workshop Topics
 
-Here are the improvements we implemented and who implemented them:
-| Improvement Implemented | Contributor(s) |
-|:--------:|:--------:|
-| Row 1, Cell 1 | Row 1, Cell 2 |
-| Row 2, Cell 1 | Row 2, Cell 2 |
-| Row 3, Cell 1 | Row 3, Cell 2 |
-| Row 4, Cell 1 | Row 4, Cell 2 |
-| Row 5, Cell 1 | Row 5, Cell 2 |
-| Row 6, Cell 1 | Row 6, Cell 2 |
-| Row 7, Cell 1 | Row 7, Cell 2 |
-| Row 8, Cell 1 | Row 8, Cell 2 |
-| Row 9, Cell 1 | Row 9, Cell 2 |
-| Row 10, Cell 1 | Row 10, Cell 2 |
+| Topic | Description | Link |
+| :--- | :--- | :--- |
+| **Quantum Transfer Learning** | Learn how quantum circuits can boost classical machine learning models. | [View](./Quantum-Transfer-Learning) |
+| **Quantum Natural Language Processing (NLP)** | Explore how quantum computing can accelerate language understanding. | [View](./Quantum-NLP) |
+| **Quantum Circuit Design** | Build foundational quantum circuits and understand their mechanics. | [View](./Quantum-Circuit-Design) |
+
+_More topics coming soon!_
 
 ---
 
-## 📚 References
+## 🌎 Where We Teach
 
-- [PennyLane Demo]([https://docs.pennylane.ai/](https://pennylane.ai/qml/demos/tutorial_quantum_transfer_learning))
+Our workshops are currently offered through Do Quantum chapters at:
+- University of Maryland (UMD)
+- New York University (NYU)
+- Georgia Tech
+- MIT
+- _(And expanding!)_
+
+---
+
+## 🎓 About Do Quantum
+
+**Do Quantum** is a nonprofit organization dedicated to making quantum computing accessible to everyone.  
+We build pathways from foundational learning to real research, industry collaboration, and workforce development.  
+Our workshops, internships, and mentorships prepare students for the future of quantum technologies.
+
+👉 Learn more: [doquantum.org](https://doquantum.org) <!-- Update the link if needed -->
+
+---
+
+## 🛠️ How to Contribute
+
+Want to help us improve our workshops?  
+Feel free to open an issue, fork a topic repository, or suggest improvements through pull requests.
+
+---
+
+# ✨ Let's Build the Future of Quantum Together!
