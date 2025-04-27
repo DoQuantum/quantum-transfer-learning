@@ -36,9 +36,6 @@ _More topics coming soon!_
 
 Our workshops are currently offered through Do Quantum chapters at:
 - University of Maryland (UMD)
-- New York University (NYU)
-- Georgia Tech
-- MIT
 - _(And expanding!)_
 
 ---
